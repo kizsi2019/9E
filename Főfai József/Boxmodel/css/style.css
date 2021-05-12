@@ -1,3 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background: url(../pics/bg-body.gif)
+    background: url(../pics/bg-body.gif);
+    margin: 0;
+}
+
+.box {
+    background-color: white;
+    width: 90%;
+    margin: 40 px auto;
+}
+
+.header-image {
+    background-image: url(../pics/image1.jpg);
+    height: 200px;
+}
+
+.box-content {
+    padding: 20px;
+}
+
+.box h2 {
+    margin: 0;
 }
