@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+html {
+    height: 100%
+}
+
+body {
+    background: url(../pics/bg-body.gif) green repeat center center fixed;
+    color: white;
+    font-family: 'Roboto', sans-serif;
